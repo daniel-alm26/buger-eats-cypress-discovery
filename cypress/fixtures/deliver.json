@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Daniel Cardoso",
+        "cpf": "00000014141",
+        "email": "daniel@hotmail.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "24240181",
+            "street": "Rua Noronha Torrezão",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Santa Rosa",
+            "city_state": "Niterói/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Lucas",
+        "cpf": "x00000141AA",
+        "email": "joao@hotmail.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "24240181",
+            "street": "Rua Noronha Torrezão",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Santa Rosa",
+            "city_state": "Niterói/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Daniel Cardoso",
+        "cpf": "00000014141",
+        "email": "daniel.com.br",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "24240181",
+            "street": "Rua Noronha Torrezão",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Santa Rosa",
+            "city_state": "Niterói/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
